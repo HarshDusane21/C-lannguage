@@ -5,7 +5,7 @@ int main()
         
 
     char a[100]; 
-    int i,alph=0,digit=0,spc=0;
+    int i,digit=0;
  
     printf("Enter  the string : ");
     gets(a);
