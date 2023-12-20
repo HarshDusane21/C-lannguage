@@ -3,7 +3,7 @@ main()
 {
 
 	char hd ;
-	printf("enter number :");
+	printf("enter any  charchter :");
 	scanf(" %c",&hd);
 	switch (hd)
 	{
