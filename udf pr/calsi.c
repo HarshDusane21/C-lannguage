@@ -66,7 +66,10 @@ void cals()
 }
  int main()
  {
+	 while(1)
+		 {
  		cals();
+		 }
  	return 0;
  }
 
